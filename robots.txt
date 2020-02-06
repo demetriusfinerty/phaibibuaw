@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://athongomai.hawaiki.org/sitemap.xml
